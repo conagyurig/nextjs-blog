@@ -24,7 +24,7 @@ export default function Home({
         <p>Find your graphic design talent</p>
         <p>
           (Create an account here{' '}
-          <a href="https://nextjs.org/learn">sign up for free</a>)
+          <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">sign up for free</a>)
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
